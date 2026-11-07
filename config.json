@@ -1,0 +1,10 @@
+{
+  "llama_server_url": "http://127.0.0.1:8080/v1/chat/completions",
+  "model_name": "NVIDIA-Nemotron-3-Nano-4B-GGUF",
+  "request_timeout_seconds": 8,
+  "max_tokens": 96,
+  "temperature": 0.2,
+  "display_backend": "console",
+  "led_backend": "console",
+  "haptics_backend": "console"
+}
